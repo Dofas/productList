@@ -1,0 +1,16 @@
+.productForm {
+    min-width: 400px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.editBtns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.formInput {
+    margin-bottom: 15px;
+}

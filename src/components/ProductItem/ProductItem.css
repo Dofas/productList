@@ -1,0 +1,25 @@
+.productItem {
+    margin-bottom: 30px;
+    border: 1px solid green;
+    padding: 10px;
+}
+
+.productImg {
+    width: 30px;
+    height: 30px;
+}
+
+.descriptionItem {
+    margin-bottom: 15px;
+}
+
+.itemBtns{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.itemBtn {
+    margin-right: 20px;
+}

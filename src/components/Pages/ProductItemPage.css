@@ -1,0 +1,14 @@
+.currentProductImg {
+    width: 150px;
+    height: 150px;
+}
+
+.currentPageBtns {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.editItemBtn{
+    margin-left: 20px;
+}
